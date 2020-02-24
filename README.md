@@ -1,3 +1,8 @@
+---
+
+
+---
+
 <h1 id="dh2321---ivis-project-2font-size4brvisualizing-the-world-through-its-own-worldviewfont">DH2321 - IVIS Project 2<font size="4"><br>Visualizing the World Through Its Own Worldview</font></h1>
 <p>I want to address the theme of <em><strong>trust</strong></em> in this project due to the growing insecurity of people and the isolation of themselves from other people.</p>
 <h1 id="font-size5question-is-there-a-correlation-between-the-characteristics-of-the-neighbors-and-trust-your-neighborhoodfont"><font size="5">Question: Is there a correlation between the characteristics of the neighbors and trust your neighborhood?</font></h1>
@@ -18,11 +23,10 @@ In this data visualization, we see that the secure in the neighborhood has been 
 <img src="https://i.imgur.com/rvNh8jS.png"></p>
 <p><strong>Figure 7</strong><br>
 <img src="https://i.imgur.com/phi9mTh.png"></p>
-<p><strong>Figure 8</strong><br>
-<img src="https://i.imgur.com/IQfPGau.png"></p>
-<p><strong>Figure 9</strong><br>
-<img src="https://i.imgur.com/VQvOfX3.png"></p>
 <p><strong>Figure 10</strong><br>
+<img src="https://i.imgur.com/VQvOfX3.png"></p>
+<p><strong>Figure 11</strong><br>
 <img src="https://i.imgur.com/C4UV8dG.png"></p>
 <h2 id="learnings">Learnings</h2>
+<p>Although I could not use D3.js for interactive visualization in this project, I improved myself in D3.js library and JavaScript. Unfortunately, due to several bugs and technical failures, I could not add my project with D3.js here, so I used static images. I think I have also made progress on how to clear the data and make it suitable for visualization.</p>
 
